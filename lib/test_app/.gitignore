@@ -11,4 +11,5 @@
 /log/*
 !/log/.keep
 /tmp
-!cache/.keep
+!/tmp/.keep
+!/tmp/cache/.keep
