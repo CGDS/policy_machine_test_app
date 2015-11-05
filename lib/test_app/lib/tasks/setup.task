@@ -1,0 +1,7 @@
+namespace :policy_machine_app do
+
+  desc 'Set up the policy machine test application'
+  task setup_test_app: :environment do
+    puts "HELLO"
+  end
+end
